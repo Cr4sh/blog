@@ -1,0 +1,865 @@
+### Header (00000700-00000703)
+major  =1
+minor  =0
+hdrSize=4
+offSize=4
+### Name INDEX (00000704-0000071c)
+--- object[index]={value}
+[0]={CFF_Type-1_0x0d_expl}
+### Top DICT INDEX (0000071d-0000074c)
+--- object[index]={value}
+[0]={
+  423 version
+  424 Notice
+  425 FullName
+  426 FamilyName
+  387 Weight
+  -14 ItalicAngle
+  -184 -280 1328 882 FontBBox
+  465 charset
+  28 1271 Private
+  472 CharStrings
+}
+### String INDEX (0000074d-000008cc)
+--- object[index]={value}
+[391]={f_i}
+[392]={Omega}
+[393]={pi}
+[394]={Euro}
+[395]={estimated}
+[396]={partialdiff}
+[397]={product}
+[398]={summation}
+[399]={uni2219}
+[400]={radical}
+[401]={infinity}
+[402]={integral}
+[403]={approxequal}
+[404]={notequal}
+[405]={lessequal}
+[406]={greaterequal}
+[407]={lozenge}
+[408]={uni02C9}
+[409]={uni00AD}
+[410]={uni03A9}
+[411]={uni00A0}
+[412]={afii61289}
+[413]={uni03BC}
+[414]={uni2215}
+[415]={f_l}
+[416]={a.superior}
+[417]={o.superior}
+[418]={one.superior}
+[419]={two.superior}
+[420]={three.superior}
+[421]={uni2206}
+[422]={uni2010}
+[423]={002.000}
+[424]={}
+[425]={CFF_Type-1_0x0d_expl Medium}
+[426]={CFF_Type-1_0x0d_expl}
+### GlobalSubrINDEX (000008cd-000008ce)
+empty
+### Encoding ........ (Standard)
+### Charset (000008d1-000008d7)
+format=1
+--- Range1[index]={first,nLeft}
+[0]={1,227}
+[1]={391,31}
+### CharStrings INDEX (000008d8-00000bf6)
+--- object[index]={value}
+[0]={
+  endchar
+}
+[1]={
+  endchar
+}
+[2]={
+  endchar
+}
+[3]={
+  endchar
+}
+[4]={
+  endchar
+}
+[5]={
+  endchar
+}
+[6]={
+  endchar
+}
+[7]={
+  endchar
+}
+[8]={
+  endchar
+}
+[9]={
+  endchar
+}
+[10]={
+  endchar
+}
+[11]={
+  endchar
+}
+[12]={
+  endchar
+}
+[13]={
+  endchar
+}
+[14]={
+  endchar
+}
+[15]={
+  endchar
+}
+[16]={
+  endchar
+}
+[17]={
+  endchar
+}
+[18]={
+  endchar
+}
+[19]={
+  endchar
+}
+[20]={
+  endchar
+}
+[21]={
+  endchar
+}
+[22]={
+  endchar
+}
+[23]={
+  endchar
+}
+[24]={
+  endchar
+}
+[25]={
+  endchar
+}
+[26]={
+  endchar
+}
+[27]={
+  endchar
+}
+[28]={
+  endchar
+}
+[29]={
+  endchar
+}
+[30]={
+  endchar
+}
+[31]={
+  endchar
+}
+[32]={
+  endchar
+}
+[33]={
+  endchar
+}
+[34]={
+  endchar
+}
+[35]={
+  endchar
+}
+[36]={
+  endchar
+}
+[37]={
+  endchar
+}
+[38]={
+  endchar
+}
+[39]={
+  endchar
+}
+[40]={
+  endchar
+}
+[41]={
+  endchar
+}
+[42]={
+  endchar
+}
+[43]={
+  endchar
+}
+[44]={
+  endchar
+}
+[45]={
+  endchar
+}
+[46]={
+  endchar
+}
+[47]={
+  endchar
+}
+[48]={
+  endchar
+}
+[49]={
+  endchar
+}
+[50]={
+  endchar
+}
+[51]={
+  endchar
+}
+[52]={
+  endchar
+}
+[53]={
+  endchar
+}
+[54]={
+  endchar
+}
+[55]={
+  endchar
+}
+[56]={
+  endchar
+}
+[57]={
+  endchar
+}
+[58]={
+  endchar
+}
+[59]={
+  endchar
+}
+[60]={
+  endchar
+}
+[61]={
+  endchar
+}
+[62]={
+  endchar
+}
+[63]={
+  endchar
+}
+[64]={
+  endchar
+}
+[65]={
+  endchar
+}
+[66]={
+  endchar
+}
+[67]={
+  endchar
+}
+[68]={
+  -74 37 -72 77 95 112 99 65 reserved13
+  vhcurveto
+  endchar
+}
+[69]={
+  endchar
+}
+[70]={
+  endchar
+}
+[71]={
+  endchar
+}
+[72]={
+  endchar
+}
+[73]={
+  endchar
+}
+[74]={
+  endchar
+}
+[75]={
+  endchar
+}
+[76]={
+  endchar
+}
+[77]={
+  endchar
+}
+[78]={
+  endchar
+}
+[79]={
+  endchar
+}
+[80]={
+  endchar
+}
+[81]={
+  endchar
+}
+[82]={
+  endchar
+}
+[83]={
+  endchar
+}
+[84]={
+  endchar
+}
+[85]={
+  endchar
+}
+[86]={
+  endchar
+}
+[87]={
+  endchar
+}
+[88]={
+  endchar
+}
+[89]={
+  endchar
+}
+[90]={
+  endchar
+}
+[91]={
+  endchar
+}
+[92]={
+  endchar
+}
+[93]={
+  endchar
+}
+[94]={
+  endchar
+}
+[95]={
+  endchar
+}
+[96]={
+  endchar
+}
+[97]={
+  endchar
+}
+[98]={
+  endchar
+}
+[99]={
+  endchar
+}
+[100]={
+  endchar
+}
+[101]={
+  endchar
+}
+[102]={
+  endchar
+}
+[103]={
+  endchar
+}
+[104]={
+  endchar
+}
+[105]={
+  endchar
+}
+[106]={
+  endchar
+}
+[107]={
+  endchar
+}
+[108]={
+  endchar
+}
+[109]={
+  endchar
+}
+[110]={
+  endchar
+}
+[111]={
+  endchar
+}
+[112]={
+  endchar
+}
+[113]={
+  endchar
+}
+[114]={
+  endchar
+}
+[115]={
+  endchar
+}
+[116]={
+  endchar
+}
+[117]={
+  endchar
+}
+[118]={
+  endchar
+}
+[119]={
+  endchar
+}
+[120]={
+  endchar
+}
+[121]={
+  endchar
+}
+[122]={
+  endchar
+}
+[123]={
+  endchar
+}
+[124]={
+  endchar
+}
+[125]={
+  endchar
+}
+[126]={
+  endchar
+}
+[127]={
+  endchar
+}
+[128]={
+  endchar
+}
+[129]={
+  endchar
+}
+[130]={
+  endchar
+}
+[131]={
+  endchar
+}
+[132]={
+  endchar
+}
+[133]={
+  endchar
+}
+[134]={
+  endchar
+}
+[135]={
+  endchar
+}
+[136]={
+  endchar
+}
+[137]={
+  endchar
+}
+[138]={
+  endchar
+}
+[139]={
+  endchar
+}
+[140]={
+  endchar
+}
+[141]={
+  endchar
+}
+[142]={
+  endchar
+}
+[143]={
+  endchar
+}
+[144]={
+  endchar
+}
+[145]={
+  endchar
+}
+[146]={
+  endchar
+}
+[147]={
+  endchar
+}
+[148]={
+  endchar
+}
+[149]={
+  endchar
+}
+[150]={
+  endchar
+}
+[151]={
+  endchar
+}
+[152]={
+  endchar
+}
+[153]={
+  endchar
+}
+[154]={
+  endchar
+}
+[155]={
+  endchar
+}
+[156]={
+  endchar
+}
+[157]={
+  endchar
+}
+[158]={
+  endchar
+}
+[159]={
+  endchar
+}
+[160]={
+  endchar
+}
+[161]={
+  endchar
+}
+[162]={
+  endchar
+}
+[163]={
+  endchar
+}
+[164]={
+  endchar
+}
+[165]={
+  endchar
+}
+[166]={
+  endchar
+}
+[167]={
+  endchar
+}
+[168]={
+  endchar
+}
+[169]={
+  endchar
+}
+[170]={
+  endchar
+}
+[171]={
+  endchar
+}
+[172]={
+  endchar
+}
+[173]={
+  endchar
+}
+[174]={
+  endchar
+}
+[175]={
+  endchar
+}
+[176]={
+  endchar
+}
+[177]={
+  endchar
+}
+[178]={
+  endchar
+}
+[179]={
+  endchar
+}
+[180]={
+  endchar
+}
+[181]={
+  endchar
+}
+[182]={
+  endchar
+}
+[183]={
+  endchar
+}
+[184]={
+  endchar
+}
+[185]={
+  endchar
+}
+[186]={
+  endchar
+}
+[187]={
+  endchar
+}
+[188]={
+  endchar
+}
+[189]={
+  endchar
+}
+[190]={
+  endchar
+}
+[191]={
+  endchar
+}
+[192]={
+  endchar
+}
+[193]={
+  endchar
+}
+[194]={
+  endchar
+}
+[195]={
+  endchar
+}
+[196]={
+  endchar
+}
+[197]={
+  endchar
+}
+[198]={
+  endchar
+}
+[199]={
+  endchar
+}
+[200]={
+  endchar
+}
+[201]={
+  endchar
+}
+[202]={
+  endchar
+}
+[203]={
+  endchar
+}
+[204]={
+  endchar
+}
+[205]={
+  endchar
+}
+[206]={
+  endchar
+}
+[207]={
+  endchar
+}
+[208]={
+  endchar
+}
+[209]={
+  endchar
+}
+[210]={
+  endchar
+}
+[211]={
+  endchar
+}
+[212]={
+  endchar
+}
+[213]={
+  endchar
+}
+[214]={
+  endchar
+}
+[215]={
+  endchar
+}
+[216]={
+  endchar
+}
+[217]={
+  endchar
+}
+[218]={
+  endchar
+}
+[219]={
+  endchar
+}
+[220]={
+  endchar
+}
+[221]={
+  endchar
+}
+[222]={
+  endchar
+}
+[223]={
+  endchar
+}
+[224]={
+  endchar
+}
+[225]={
+  endchar
+}
+[226]={
+  endchar
+}
+[227]={
+  endchar
+}
+[228]={
+  endchar
+}
+[229]={
+  endchar
+}
+[230]={
+  endchar
+}
+[231]={
+  endchar
+}
+[232]={
+  endchar
+}
+[233]={
+  endchar
+}
+[234]={
+  endchar
+}
+[235]={
+  endchar
+}
+[236]={
+  endchar
+}
+[237]={
+  endchar
+}
+[238]={
+  endchar
+}
+[239]={
+  endchar
+}
+[240]={
+  endchar
+}
+[241]={
+  endchar
+}
+[242]={
+  endchar
+}
+[243]={
+  endchar
+}
+[244]={
+  endchar
+}
+[245]={
+  endchar
+}
+[246]={
+  endchar
+}
+[247]={
+  endchar
+}
+[248]={
+  endchar
+}
+[249]={
+  endchar
+}
+[250]={
+  endchar
+}
+[251]={
+  endchar
+}
+[252]={
+  endchar
+}
+[253]={
+  endchar
+}
+[254]={
+  endchar
+}
+[255]={
+  endchar
+}
+[256]={
+  endchar
+}
+[257]={
+  endchar
+}
+[258]={
+  endchar
+}
+[259]={
+  endchar
+}
+[260]={
+  endchar
+}
+### Private DICT (00000bf7-00000c12)
+  -20 20 683 23 -333 23 247 9 BlueValues
+  -265 23 OtherBlues
+  88 StdHW
+  88 StdVW
+  565 defaultWidthX
+  399 nominalWidthX
+  28 Subrs
+### Local Subr INDEX (00000c13-00000c14)
+empty

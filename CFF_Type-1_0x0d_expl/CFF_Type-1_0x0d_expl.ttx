@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.2">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="space"/>
+    <GlyphID id="2" name="exclam"/>
+    <GlyphID id="3" name="quotedbl"/>
+    <GlyphID id="4" name="numbersign"/>
+    <GlyphID id="5" name="dollar"/>
+    <GlyphID id="6" name="percent"/>
+    <GlyphID id="7" name="ampersand"/>
+    <GlyphID id="8" name="quoteright"/>
+    <GlyphID id="9" name="parenleft"/>
+    <GlyphID id="10" name="parenright"/>
+    <GlyphID id="11" name="asterisk"/>
+    <GlyphID id="12" name="plus"/>
+    <GlyphID id="13" name="comma"/>
+    <GlyphID id="14" name="hyphen"/>
+    <GlyphID id="15" name="period"/>
+    <GlyphID id="16" name="slash"/>
+    <GlyphID id="17" name="zero"/>
+    <GlyphID id="18" name="one"/>
+    <GlyphID id="19" name="two"/>
+    <GlyphID id="20" name="three"/>
+    <GlyphID id="21" name="four"/>
+    <GlyphID id="22" name="five"/>
+    <GlyphID id="23" name="six"/>
+    <GlyphID id="24" name="seven"/>
+    <GlyphID id="25" name="eight"/>
+    <GlyphID id="26" name="nine"/>
+    <GlyphID id="27" name="colon"/>
+    <GlyphID id="28" name="semicolon"/>
+    <GlyphID id="29" name="less"/>
+    <GlyphID id="30" name="equal"/>
+    <GlyphID id="31" name="greater"/>
+    <GlyphID id="32" name="question"/>
+    <GlyphID id="33" name="at"/>
+    <GlyphID id="34" name="A"/>
+    <GlyphID id="35" name="B"/>
+    <GlyphID id="36" name="C"/>
+    <GlyphID id="37" name="D"/>
+    <GlyphID id="38" name="E"/>
+    <GlyphID id="39" name="F"/>
+    <GlyphID id="40" name="G"/>
+    <GlyphID id="41" name="H"/>
+    <GlyphID id="42" name="I"/>
+    <GlyphID id="43" name="J"/>
+    <GlyphID id="44" name="K"/>
+    <GlyphID id="45" name="L"/>
+    <GlyphID id="46" name="M"/>
+    <GlyphID id="47" name="N"/>
+    <GlyphID id="48" name="O"/>
+    <GlyphID id="49" name="P"/>
+    <GlyphID id="50" name="Q"/>
+    <GlyphID id="51" name="R"/>
+    <GlyphID id="52" name="S"/>
+    <GlyphID id="53" name="T"/>
+    <GlyphID id="54" name="U"/>
+    <GlyphID id="55" name="V"/>
+    <GlyphID id="56" name="W"/>
+    <GlyphID id="57" name="X"/>
+    <GlyphID id="58" name="Y"/>
+    <GlyphID id="59" name="Z"/>
+    <GlyphID id="60" name="bracketleft"/>
+    <GlyphID id="61" name="backslash"/>
+    <GlyphID id="62" name="bracketright"/>
+    <GlyphID id="63" name="asciicircum"/>
+    <GlyphID id="64" name="underscore"/>
+    <GlyphID id="65" name="quoteleft"/>
+    <GlyphID id="66" name="a"/>
+    <GlyphID id="67" name="b"/>
+    <GlyphID id="68" name="c"/>
+    <GlyphID id="69" name="d"/>
+    <GlyphID id="70" name="e"/>
+    <GlyphID id="71" name="f"/>
+    <GlyphID id="72" name="g"/>
+    <GlyphID id="73" name="h"/>
+    <GlyphID id="74" name="i"/>
+    <GlyphID id="75" name="j"/>
+    <GlyphID id="76" name="k"/>
+    <GlyphID id="77" name="l"/>
+    <GlyphID id="78" name="m"/>
+    <GlyphID id="79" name="n"/>
+    <GlyphID id="80" name="o"/>
+    <GlyphID id="81" name="p"/>
+    <GlyphID id="82" name="q"/>
+    <GlyphID id="83" name="r"/>
+    <GlyphID id="84" name="s"/>
+    <GlyphID id="85" name="t"/>
+    <GlyphID id="86" name="u"/>
+    <GlyphID id="87" name="v"/>
+    <GlyphID id="88" name="w"/>
+    <GlyphID id="89" name="x"/>
+    <GlyphID id="90" name="y"/>
+    <GlyphID id="91" name="z"/>
+    <GlyphID id="92" name="braceleft"/>
+    <GlyphID id="93" name="bar"/>
+    <GlyphID id="94" name="braceright"/>
+    <GlyphID id="95" name="asciitilde"/>
+    <GlyphID id="96" name="exclamdown"/>
+    <GlyphID id="97" name="cent"/>
+    <GlyphID id="98" name="sterling"/>
+    <GlyphID id="99" name="fraction"/>
+    <GlyphID id="100" name="yen"/>
+    <GlyphID id="101" name="florin"/>
+    <GlyphID id="102" name="section"/>
+    <GlyphID id="103" name="currency"/>
+    <GlyphID id="104" name="quotesingle"/>
+    <GlyphID id="105" name="quotedblleft"/>
+    <GlyphID id="106" name="guillemotleft"/>
+    <GlyphID id="107" name="guilsinglleft"/>
+    <GlyphID id="108" name="guilsinglright"/>
+    <GlyphID id="109" name="fi"/>
+    <GlyphID id="110" name="fl"/>
+    <GlyphID id="111" name="endash"/>
+    <GlyphID id="112" name="dagger"/>
+    <GlyphID id="113" name="daggerdbl"/>
+    <GlyphID id="114" name="periodcentered"/>
+    <GlyphID id="115" name="paragraph"/>
+    <GlyphID id="116" name="bullet"/>
+    <GlyphID id="117" name="quotesinglbase"/>
+    <GlyphID id="118" name="quotedblbase"/>
+    <GlyphID id="119" name="quotedblright"/>
+    <GlyphID id="120" name="guillemotright"/>
+    <GlyphID id="121" name="ellipsis"/>
+    <GlyphID id="122" name="perthousand"/>
+    <GlyphID id="123" name="questiondown"/>
+    <GlyphID id="124" name="grave"/>
+    <GlyphID id="125" name="acute"/>
+    <GlyphID id="126" name="circumflex"/>
+    <GlyphID id="127" name="tilde"/>
+    <GlyphID id="128" name="macron"/>
+    <GlyphID id="129" name="breve"/>
+    <GlyphID id="130" name="dotaccent"/>
+    <GlyphID id="131" name="dieresis"/>
+    <GlyphID id="132" name="ring"/>
+    <GlyphID id="133" name="cedilla"/>
+    <GlyphID id="134" name="hungarumlaut"/>
+    <GlyphID id="135" name="ogonek"/>
+    <GlyphID id="136" name="caron"/>
+    <GlyphID id="137" name="emdash"/>
+    <GlyphID id="138" name="AE"/>
+    <GlyphID id="139" name="ordfeminine"/>
+    <GlyphID id="140" name="Lslash"/>
+    <GlyphID id="141" name="Oslash"/>
+    <GlyphID id="142" name="OE"/>
+    <GlyphID id="143" name="ordmasculine"/>
+    <GlyphID id="144" name="ae"/>
+    <GlyphID id="145" name="dotlessi"/>
+    <GlyphID id="146" name="lslash"/>
+    <GlyphID id="147" name="oslash"/>
+    <GlyphID id="148" name="oe"/>
+    <GlyphID id="149" name="germandbls"/>
+    <GlyphID id="150" name="onesuperior"/>
+    <GlyphID id="151" name="logicalnot"/>
+    <GlyphID id="152" name="mu"/>
+    <GlyphID id="153" name="trademark"/>
+    <GlyphID id="154" name="Eth"/>
+    <GlyphID id="155" name="onehalf"/>
+    <GlyphID id="156" name="plusminus"/>
+    <GlyphID id="157" name="Thorn"/>
+    <GlyphID id="158" name="onequarter"/>
+    <GlyphID id="159" name="divide"/>
+    <GlyphID id="160" name="brokenbar"/>
+    <GlyphID id="161" name="degree"/>
+    <GlyphID id="162" name="thorn"/>
+    <GlyphID id="163" name="threequarters"/>
+    <GlyphID id="164" name="twosuperior"/>
+    <GlyphID id="165" name="registered"/>
+    <GlyphID id="166" name="minus"/>
+    <GlyphID id="167" name="eth"/>
+    <GlyphID id="168" name="multiply"/>
+    <GlyphID id="169" name="threesuperior"/>
+    <GlyphID id="170" name="copyright"/>
+    <GlyphID id="171" name="Aacute"/>
+    <GlyphID id="172" name="Acircumflex"/>
+    <GlyphID id="173" name="Adieresis"/>
+    <GlyphID id="174" name="Agrave"/>
+    <GlyphID id="175" name="Aring"/>
+    <GlyphID id="176" name="Atilde"/>
+    <GlyphID id="177" name="Ccedilla"/>
+    <GlyphID id="178" name="Eacute"/>
+    <GlyphID id="179" name="Ecircumflex"/>
+    <GlyphID id="180" name="Edieresis"/>
+    <GlyphID id="181" name="Egrave"/>
+    <GlyphID id="182" name="Iacute"/>
+    <GlyphID id="183" name="Icircumflex"/>
+    <GlyphID id="184" name="Idieresis"/>
+    <GlyphID id="185" name="Igrave"/>
+    <GlyphID id="186" name="Ntilde"/>
+    <GlyphID id="187" name="Oacute"/>
+    <GlyphID id="188" name="Ocircumflex"/>
+    <GlyphID id="189" name="Odieresis"/>
+    <GlyphID id="190" name="Ograve"/>
+    <GlyphID id="191" name="Otilde"/>
+    <GlyphID id="192" name="Scaron"/>
+    <GlyphID id="193" name="Uacute"/>
+    <GlyphID id="194" name="Ucircumflex"/>
+    <GlyphID id="195" name="Udieresis"/>
+    <GlyphID id="196" name="Ugrave"/>
+    <GlyphID id="197" name="Yacute"/>
+    <GlyphID id="198" name="Ydieresis"/>
+    <GlyphID id="199" name="Zcaron"/>
+    <GlyphID id="200" name="aacute"/>
+    <GlyphID id="201" name="acircumflex"/>
+    <GlyphID id="202" name="adieresis"/>
+    <GlyphID id="203" name="agrave"/>
+    <GlyphID id="204" name="aring"/>
+    <GlyphID id="205" name="atilde"/>
+    <GlyphID id="206" name="ccedilla"/>
+    <GlyphID id="207" name="eacute"/>
+    <GlyphID id="208" name="ecircumflex"/>
+    <GlyphID id="209" name="edieresis"/>
+    <GlyphID id="210" name="egrave"/>
+    <GlyphID id="211" name="iacute"/>
+    <GlyphID id="212" name="icircumflex"/>
+    <GlyphID id="213" name="idieresis"/>
+    <GlyphID id="214" name="igrave"/>
+    <GlyphID id="215" name="ntilde"/>
+    <GlyphID id="216" name="oacute"/>
+    <GlyphID id="217" name="ocircumflex"/>
+    <GlyphID id="218" name="odieresis"/>
+    <GlyphID id="219" name="ograve"/>
+    <GlyphID id="220" name="otilde"/>
+    <GlyphID id="221" name="scaron"/>
+    <GlyphID id="222" name="uacute"/>
+    <GlyphID id="223" name="ucircumflex"/>
+    <GlyphID id="224" name="udieresis"/>
+    <GlyphID id="225" name="ugrave"/>
+    <GlyphID id="226" name="yacute"/>
+    <GlyphID id="227" name="ydieresis"/>
+    <GlyphID id="228" name="zcaron"/>
+    <GlyphID id="229" name="f_i"/>
+    <GlyphID id="230" name="Omega"/>
+    <GlyphID id="231" name="pi"/>
+    <GlyphID id="232" name="Euro"/>
+    <GlyphID id="233" name="estimated"/>
+    <GlyphID id="234" name="partialdiff"/>
+    <GlyphID id="235" name="product"/>
+    <GlyphID id="236" name="summation"/>
+    <GlyphID id="237" name="uni2219"/>
+    <GlyphID id="238" name="radical"/>
+    <GlyphID id="239" name="infinity"/>
+    <GlyphID id="240" name="integral"/>
+    <GlyphID id="241" name="approxequal"/>
+    <GlyphID id="242" name="notequal"/>
+    <GlyphID id="243" name="lessequal"/>
+    <GlyphID id="244" name="greaterequal"/>
+    <GlyphID id="245" name="lozenge"/>
+    <GlyphID id="246" name="uni02C9"/>
+    <GlyphID id="247" name="uni00AD"/>
+    <GlyphID id="248" name="uni03A9"/>
+    <GlyphID id="249" name="uni00A0"/>
+    <GlyphID id="250" name="afii61289"/>
+    <GlyphID id="251" name="uni03BC"/>
+    <GlyphID id="252" name="uni2215"/>
+    <GlyphID id="253" name="f_l"/>
+    <GlyphID id="254" name="a.superior"/>
+    <GlyphID id="255" name="o.superior"/>
+    <GlyphID id="256" name="one.superior"/>
+    <GlyphID id="257" name="two.superior"/>
+    <GlyphID id="258" name="three.superior"/>
+    <GlyphID id="259" name="uni2206"/>
+    <GlyphID id="260" name="uni2010"/>
+  </GlyphOrder>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="2.0359954834"/>
+    <checkSumAdjustment value="0xd37b6dc4"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00000011"/>
+    <unitsPerEm value="1000"/>
+    <created value="Wed Jun 13 16:04:30 2007"/>
+    <modified value="Wed Jun 13 16:04:30 2007"/>
+    <xMin value="-184"/>
+    <yMin value="-280"/>
+    <xMax value="1328"/>
+    <yMax value="882"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="3"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="1.0"/>
+    <ascent value="683"/>
+    <descent value="-317"/>
+    <lineGap value="200"/>
+    <advanceWidthMax value="1281"/>
+    <minLeftSideBearing value="-184"/>
+    <minRightSideBearing value="-263"/>
+    <xMaxExtent value="1328"/>
+    <caretSlopeRise value="1000"/>
+    <caretSlopeRun value="249"/>
+    <caretOffset value="-47"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="261"/>
+  </hhea>
+
+  <maxp>
+    <tableVersion value="0x5000"/>
+    <numGlyphs value="261"/>
+  </maxp>
+
+  <OS_2>
+    <version value="3"/>
+    <xAvgCharWidth value="541"/>
+    <usWeightClass value="500"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00001000"/>
+    <ySubscriptXSize value="650"/>
+    <ySubscriptYSize value="600"/>
+    <ySubscriptXOffset value="-19"/>
+    <ySubscriptYOffset value="75"/>
+    <ySuperscriptXSize value="650"/>
+    <ySuperscriptYSize value="600"/>
+    <ySuperscriptXOffset value="87"/>
+    <ySuperscriptYOffset value="350"/>
+    <yStrikeoutSize value="50"/>
+    <yStrikeoutPosition value="223"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="3"/>
+      <bSerifStyle value="6"/>
+      <bWeight value="8"/>
+      <bProportion value="2"/>
+      <bContrast value="4"/>
+      <bStrokeVariation value="6"/>
+      <bArmStyle value="7"/>
+      <bLetterForm value="7"/>
+      <bMidline value="4"/>
+      <bXHeight value="4"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000011"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="ADBE"/>
+    <fsSelection value="00000000 00000000"/>
+    <fsFirstCharIndex value="32"/>
+    <fsLastCharIndex value="64258"/>
+    <sTypoAscender value="683"/>
+    <sTypoDescender value="-317"/>
+    <sTypoLineGap value="200"/>
+    <usWinAscent value="882"/>
+    <usWinDescent value="280"/>
+    <ulCodePageRange1 value="00100000 00000000 00000000 00000001"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="373"/>
+    <sCapHeight value="683"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContex value="4"/>
+  </OS_2>
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+    
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      CFF_Type-1_0x0d_expl
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Medium
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      CFF_Type-1_0x0d_expl Medium
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.0
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      CFF_Type-1_0x0d_expl
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0">
+      CFF Type 1 font parsing 'reserved13' PoC exploit for Windows.
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      by Oleksiuk Dmytro (aka Cr4sh)
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      
+    </namerecord>
+    <namerecord nameID="18" platformID="1" platEncID="0" langID="0x0">
+      CFF_Type-1_0x0d_expl
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      &#169; 2012 All rights reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      CFF_Type-1_0x0d_expl
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      CFF_Type-1_0x0d_expl
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      CFF_Type-1_0x0d_expl
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      CFF Type 1 font parsing 'reserved13' PoC exploit for Windows.
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      by Oleksiuk Dmytro (aka Cr4sh)
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      Medium
+    </namerecord>
+  </name>
+
+  <cmap>
+    <tableVersion version="0"/>
+    
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="ampersand"/><!-- AMPERSAND -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="A"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="B"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="C"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="D"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="E"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="F"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="G"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="H"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="I"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="J"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="K"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="L"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="M"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="N"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="O"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="P"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="Q"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="R"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="S"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="T"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="U"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="V"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="W"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="X"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="Y"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="Z"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x60" name="grave"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="a"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="b"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="c"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="d"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="e"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="f"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="g"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="h"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="i"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="j"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="k"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="l"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="m"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="n"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="o"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="p"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="q"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="r"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="s"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="t"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="u"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="v"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="w"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
+      <map code="0xa2" name="cent"/><!-- CENT SIGN -->
+      <map code="0xa3" name="sterling"/><!-- POUND SIGN -->
+      <map code="0xa4" name="currency"/><!-- CURRENCY SIGN -->
+      <map code="0xa5" name="yen"/><!-- YEN SIGN -->
+      <map code="0xa6" name="brokenbar"/><!-- BROKEN BAR -->
+      <map code="0xa7" name="section"/><!-- SECTION SIGN -->
+      <map code="0xa8" name="dieresis"/><!-- DIAERESIS -->
+      <map code="0xa9" name="copyright"/><!-- COPYRIGHT SIGN -->
+      <map code="0xaa" name="ordfeminine"/><!-- FEMININE ORDINAL INDICATOR -->
+      <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xac" name="logicalnot"/><!-- NOT SIGN -->
+      <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
+      <map code="0xae" name="registered"/><!-- REGISTERED SIGN -->
+      <map code="0xaf" name="macron"/><!-- MACRON -->
+      <map code="0xb0" name="degree"/><!-- DEGREE SIGN -->
+      <map code="0xb1" name="plusminus"/><!-- PLUS-MINUS SIGN -->
+      <map code="0xb2" name="twosuperior"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="threesuperior"/><!-- SUPERSCRIPT THREE -->
+      <map code="0xb4" name="acute"/><!-- ACUTE ACCENT -->
+      <map code="0xb5" name="mu"/><!-- MICRO SIGN -->
+      <map code="0xb6" name="paragraph"/><!-- PILCROW SIGN -->
+      <map code="0xb7" name="periodcentered"/><!-- MIDDLE DOT -->
+      <map code="0xb8" name="cedilla"/><!-- CEDILLA -->
+      <map code="0xb9" name="onesuperior"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xba" name="ordmasculine"/><!-- MASCULINE ORDINAL INDICATOR -->
+      <map code="0xbb" name="guillemotright"/><!-- RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xbc" name="onequarter"/><!-- VULGAR FRACTION ONE QUARTER -->
+      <map code="0xbd" name="onehalf"/><!-- VULGAR FRACTION ONE HALF -->
+      <map code="0xbe" name="threequarters"/><!-- VULGAR FRACTION THREE QUARTERS -->
+      <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
+      <map code="0xc0" name="Agrave"/><!-- LATIN CAPITAL LETTER A WITH GRAVE -->
+      <map code="0xc1" name="Aacute"/><!-- LATIN CAPITAL LETTER A WITH ACUTE -->
+      <map code="0xc2" name="Acircumflex"/><!-- LATIN CAPITAL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xc3" name="Atilde"/><!-- LATIN CAPITAL LETTER A WITH TILDE -->
+      <map code="0xc4" name="Adieresis"/><!-- LATIN CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0xc5" name="Aring"/><!-- LATIN CAPITAL LETTER A WITH RING ABOVE -->
+      <map code="0xc6" name="AE"/><!-- LATIN CAPITAL LETTER AE -->
+      <map code="0xc7" name="Ccedilla"/><!-- LATIN CAPITAL LETTER C WITH CEDILLA -->
+      <map code="0xc8" name="Egrave"/><!-- LATIN CAPITAL LETTER E WITH GRAVE -->
+      <map code="0xc9" name="Eacute"/><!-- LATIN CAPITAL LETTER E WITH ACUTE -->
+      <map code="0xca" name="Ecircumflex"/><!-- LATIN CAPITAL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xcb" name="Edieresis"/><!-- LATIN CAPITAL LETTER E WITH DIAERESIS -->
+      <map code="0xcc" name="Igrave"/><!-- LATIN CAPITAL LETTER I WITH GRAVE -->
+      <map code="0xcd" name="Iacute"/><!-- LATIN CAPITAL LETTER I WITH ACUTE -->
+      <map code="0xce" name="Icircumflex"/><!-- LATIN CAPITAL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xcf" name="Idieresis"/><!-- LATIN CAPITAL LETTER I WITH DIAERESIS -->
+      <map code="0xd0" name="Eth"/><!-- LATIN CAPITAL LETTER ETH -->
+      <map code="0xd1" name="Ntilde"/><!-- LATIN CAPITAL LETTER N WITH TILDE -->
+      <map code="0xd2" name="Ograve"/><!-- LATIN CAPITAL LETTER O WITH GRAVE -->
+      <map code="0xd3" name="Oacute"/><!-- LATIN CAPITAL LETTER O WITH ACUTE -->
+      <map code="0xd4" name="Ocircumflex"/><!-- LATIN CAPITAL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xd5" name="Otilde"/><!-- LATIN CAPITAL LETTER O WITH TILDE -->
+      <map code="0xd6" name="Odieresis"/><!-- LATIN CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xd8" name="Oslash"/><!-- LATIN CAPITAL LETTER O WITH STROKE -->
+      <map code="0xd9" name="Ugrave"/><!-- LATIN CAPITAL LETTER U WITH GRAVE -->
+      <map code="0xda" name="Uacute"/><!-- LATIN CAPITAL LETTER U WITH ACUTE -->
+      <map code="0xdb" name="Ucircumflex"/><!-- LATIN CAPITAL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xdc" name="Udieresis"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0xdd" name="Yacute"/><!-- LATIN CAPITAL LETTER Y WITH ACUTE -->
+      <map code="0xde" name="Thorn"/><!-- LATIN CAPITAL LETTER THORN -->
+      <map code="0xdf" name="germandbls"/><!-- LATIN SMALL LETTER SHARP S -->
+      <map code="0xe0" name="agrave"/><!-- LATIN SMALL LETTER A WITH GRAVE -->
+      <map code="0xe1" name="aacute"/><!-- LATIN SMALL LETTER A WITH ACUTE -->
+      <map code="0xe2" name="acircumflex"/><!-- LATIN SMALL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xe3" name="atilde"/><!-- LATIN SMALL LETTER A WITH TILDE -->
+      <map code="0xe4" name="adieresis"/><!-- LATIN SMALL LETTER A WITH DIAERESIS -->
+      <map code="0xe5" name="aring"/><!-- LATIN SMALL LETTER A WITH RING ABOVE -->
+      <map code="0xe6" name="ae"/><!-- LATIN SMALL LETTER AE -->
+      <map code="0xe7" name="ccedilla"/><!-- LATIN SMALL LETTER C WITH CEDILLA -->
+      <map code="0xe8" name="egrave"/><!-- LATIN SMALL LETTER E WITH GRAVE -->
+      <map code="0xe9" name="eacute"/><!-- LATIN SMALL LETTER E WITH ACUTE -->
+      <map code="0xea" name="ecircumflex"/><!-- LATIN SMALL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xeb" name="edieresis"/><!-- LATIN SMALL LETTER E WITH DIAERESIS -->
+      <map code="0xec" name="igrave"/><!-- LATIN SMALL LETTER I WITH GRAVE -->
+      <map code="0xed" name="iacute"/><!-- LATIN SMALL LETTER I WITH ACUTE -->
+      <map code="0xee" name="icircumflex"/><!-- LATIN SMALL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xef" name="idieresis"/><!-- LATIN SMALL LETTER I WITH DIAERESIS -->
+      <map code="0xf0" name="eth"/><!-- LATIN SMALL LETTER ETH -->
+      <map code="0xf1" name="ntilde"/><!-- LATIN SMALL LETTER N WITH TILDE -->
+      <map code="0xf2" name="ograve"/><!-- LATIN SMALL LETTER O WITH GRAVE -->
+      <map code="0xf3" name="oacute"/><!-- LATIN SMALL LETTER O WITH ACUTE -->
+      <map code="0xf4" name="ocircumflex"/><!-- LATIN SMALL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xf5" name="otilde"/><!-- LATIN SMALL LETTER O WITH TILDE -->
+      <map code="0xf6" name="odieresis"/><!-- LATIN SMALL LETTER O WITH DIAERESIS -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0xf8" name="oslash"/><!-- LATIN SMALL LETTER O WITH STROKE -->
+      <map code="0xf9" name="ugrave"/><!-- LATIN SMALL LETTER U WITH GRAVE -->
+      <map code="0xfa" name="uacute"/><!-- LATIN SMALL LETTER U WITH ACUTE -->
+      <map code="0xfb" name="ucircumflex"/><!-- LATIN SMALL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xfc" name="udieresis"/><!-- LATIN SMALL LETTER U WITH DIAERESIS -->
+      <map code="0xfd" name="yacute"/><!-- LATIN SMALL LETTER Y WITH ACUTE -->
+      <map code="0xfe" name="thorn"/><!-- LATIN SMALL LETTER THORN -->
+      <map code="0xff" name="ydieresis"/><!-- LATIN SMALL LETTER Y WITH DIAERESIS -->
+      <map code="0x131" name="dotlessi"/><!-- LATIN SMALL LETTER DOTLESS I -->
+      <map code="0x141" name="Lslash"/><!-- LATIN CAPITAL LETTER L WITH STROKE -->
+      <map code="0x142" name="lslash"/><!-- LATIN SMALL LETTER L WITH STROKE -->
+      <map code="0x152" name="OE"/><!-- LATIN CAPITAL LIGATURE OE -->
+      <map code="0x153" name="oe"/><!-- LATIN SMALL LIGATURE OE -->
+      <map code="0x160" name="Scaron"/><!-- LATIN CAPITAL LETTER S WITH CARON -->
+      <map code="0x161" name="scaron"/><!-- LATIN SMALL LETTER S WITH CARON -->
+      <map code="0x178" name="Ydieresis"/><!-- LATIN CAPITAL LETTER Y WITH DIAERESIS -->
+      <map code="0x17d" name="Zcaron"/><!-- LATIN CAPITAL LETTER Z WITH CARON -->
+      <map code="0x17e" name="zcaron"/><!-- LATIN SMALL LETTER Z WITH CARON -->
+      <map code="0x192" name="florin"/><!-- LATIN SMALL LETTER F WITH HOOK -->
+      <map code="0x2c6" name="circumflex"/><!-- MODIFIER LETTER CIRCUMFLEX ACCENT -->
+      <map code="0x2c7" name="caron"/><!-- CARON -->
+      <map code="0x2c9" name="uni02C9"/><!-- MODIFIER LETTER MACRON -->
+      <map code="0x2d8" name="breve"/><!-- BREVE -->
+      <map code="0x2d9" name="dotaccent"/><!-- DOT ABOVE -->
+      <map code="0x2da" name="ring"/><!-- RING ABOVE -->
+      <map code="0x2db" name="ogonek"/><!-- OGONEK -->
+      <map code="0x2dc" name="tilde"/><!-- SMALL TILDE -->
+      <map code="0x2dd" name="hungarumlaut"/><!-- DOUBLE ACUTE ACCENT -->
+      <map code="0x3a9" name="uni03A9"/><!-- GREEK CAPITAL LETTER OMEGA -->
+      <map code="0x3bc" name="uni03BC"/><!-- GREEK SMALL LETTER MU -->
+      <map code="0x3c0" name="pi"/><!-- GREEK SMALL LETTER PI -->
+      <map code="0x2010" name="uni2010"/><!-- HYPHEN -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201a" name="quotesinglbase"/><!-- SINGLE LOW-9 QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x201e" name="quotedblbase"/><!-- DOUBLE LOW-9 QUOTATION MARK -->
+      <map code="0x2020" name="dagger"/><!-- DAGGER -->
+      <map code="0x2021" name="daggerdbl"/><!-- DOUBLE DAGGER -->
+      <map code="0x2022" name="bullet"/><!-- BULLET -->
+      <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x2030" name="perthousand"/><!-- PER MILLE SIGN -->
+      <map code="0x2039" name="guilsinglleft"/><!-- SINGLE LEFT-POINTING ANGLE QUOTATION MARK -->
+      <map code="0x203a" name="guilsinglright"/><!-- SINGLE RIGHT-POINTING ANGLE QUOTATION MARK -->
+      <map code="0x2044" name="fraction"/><!-- FRACTION SLASH -->
+      <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
+      <map code="0x2113" name="afii61289"/><!-- SCRIPT SMALL L -->
+      <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
+      <map code="0x2126" name="Omega"/><!-- OHM SIGN -->
+      <map code="0x212e" name="estimated"/><!-- ESTIMATED SYMBOL -->
+      <map code="0x2202" name="partialdiff"/><!-- PARTIAL DIFFERENTIAL -->
+      <map code="0x2206" name="uni2206"/><!-- INCREMENT -->
+      <map code="0x220f" name="product"/><!-- N-ARY PRODUCT -->
+      <map code="0x2211" name="summation"/><!-- N-ARY SUMMATION -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x2215" name="uni2215"/><!-- DIVISION SLASH -->
+      <map code="0x2219" name="uni2219"/><!-- BULLET OPERATOR -->
+      <map code="0x221a" name="radical"/><!-- SQUARE ROOT -->
+      <map code="0x221e" name="infinity"/><!-- INFINITY -->
+      <map code="0x222b" name="integral"/><!-- INTEGRAL -->
+      <map code="0x2248" name="approxequal"/><!-- ALMOST EQUAL TO -->
+      <map code="0x2260" name="notequal"/><!-- NOT EQUAL TO -->
+      <map code="0x2264" name="lessequal"/><!-- LESS-THAN OR EQUAL TO -->
+      <map code="0x2265" name="greaterequal"/><!-- GREATER-THAN OR EQUAL TO -->
+      <map code="0x25ca" name="lozenge"/><!-- LOZENGE -->
+      <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
+      <map code="0xfb02" name="fl"/><!-- LATIN SMALL LIGATURE FL -->
+    </cmap_format_4>
+  </cmap>
+
+  <post>
+    <formatType value="3.0"/>
+    <italicAngle value="-14.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+  </post>
+
+  <CFF>
+
+    <CFFFont name="CFF_Type-1_0x0d_expl">
+      <version value="002.000"/>
+      <Notice value=""/>
+      <FullName value="CFF_Type-1_0x0d_expl Medium"/>
+      <FamilyName value="CFF_Type-1_0x0d_expl"/>
+      <Weight value="Medium"/>
+      <isFixedPitch value="0"/>
+      <ItalicAngle value="-14"/>
+      <UnderlineThickness value="50"/>
+      <PaintType value="0"/>
+      <CharstringType value="2"/>
+      <FontMatrix value="0.001 0 0 0.001 0 0"/>
+      <FontBBox value="-184 -280 1328 882"/>
+      <StrokeWidth value="0"/>
+      <!-- charset is dumped separately as the 'GlyphOrder' element -->
+      <Encoding name="StandardEncoding"/>
+      <Private>
+        <BlueValues value="-20 0 683 706 373 396 643 652"/>
+        <OtherBlues value="-265 -242"/>
+        <BlueScale value="0.039625"/>
+        <BlueShift value="7"/>
+        <BlueFuzz value="1"/>
+        <StdHW value="88"/>
+        <StdVW value="88"/>
+        <ForceBold value="0"/>
+        <LanguageGroup value="0"/>
+        <ExpansionFactor value="0.06"/>
+        <initialRandomSeed value="0"/>
+        <defaultWidthX value="565"/>
+        <nominalWidthX value="399"/>
+        <Subrs>
+          
+        </Subrs>
+      </Private>
+      <CharStrings>
+        <CharString name=".notdef">
+          endchar
+        </CharString>
+        <CharString name="A">
+          endchar
+        </CharString>
+        <CharString name="AE">
+          endchar
+        </CharString>
+        <CharString name="Aacute">
+          endchar
+        </CharString>
+        <CharString name="Acircumflex">
+          endchar
+        </CharString>
+        <CharString name="Adieresis">
+          endchar
+        </CharString>
+        <CharString name="Agrave">
+          endchar
+        </CharString>
+        <CharString name="Aring">
+          endchar
+        </CharString>
+        <CharString name="Atilde">
+          endchar
+        </CharString>
+        <CharString name="B">          
+          endchar
+        </CharString>
+        <CharString name="C">
+          endchar
+        </CharString>
+        <CharString name="Ccedilla">
+          endchar
+        </CharString>
+        <CharString name="D">
+          endchar
+        </CharString>
+        <CharString name="E">
+          endchar
+        </CharString>
+        <CharString name="Eacute">
+          endchar
+        </CharString>
+        <CharString name="Ecircumflex">
+          endchar
+        </CharString>
+        <CharString name="Edieresis">
+          endchar
+        </CharString>
+        <CharString name="Egrave">
+          endchar
+        </CharString>
+        <CharString name="Eth">
+          endchar
+        </CharString>
+        <CharString name="Euro">
+          endchar
+        </CharString>
+        <CharString name="F">
+          endchar
+        </CharString>
+        <CharString name="G">
+          endchar
+        </CharString>
+        <CharString name="H">
+          endchar
+        </CharString>
+        <CharString name="I">
+          endchar
+        </CharString>
+        <CharString name="Iacute">
+          endchar
+        </CharString>
+        <CharString name="Icircumflex">
+          endchar
+        </CharString>
+        <CharString name="Idieresis">
+          endchar
+        </CharString>
+        <CharString name="Igrave">
+          endchar
+        </CharString>
+        <CharString name="J">
+          endchar
+        </CharString>
+        <CharString name="K">
+          endchar
+        </CharString>
+        <CharString name="L">
+          endchar
+        </CharString>
+        <CharString name="Lslash">
+          endchar
+        </CharString>
+        <CharString name="M">
+          endchar
+        </CharString>
+        <CharString name="N">
+          endchar
+        </CharString>
+        <CharString name="Ntilde">
+          endchar
+        </CharString>
+        <CharString name="O">
+          endchar
+        </CharString>
+        <CharString name="OE">
+          endchar
+        </CharString>
+        <CharString name="Oacute">
+          endchar
+        </CharString>
+        <CharString name="Ocircumflex">
+          endchar
+        </CharString>
+        <CharString name="Odieresis">
+          endchar
+        </CharString>
+        <CharString name="Ograve">
+          endchar
+        </CharString>
+        <CharString name="Omega">
+          endchar
+        </CharString>
+        <CharString name="Oslash">
+          endchar
+        </CharString>
+        <CharString name="Otilde">
+          endchar
+        </CharString>
+        <CharString name="P">
+          endchar
+        </CharString>
+        <CharString name="Q">
+          endchar
+        </CharString>
+        <CharString name="R">
+          endchar
+        </CharString>
+        <CharString name="S">
+          endchar
+        </CharString>
+        <CharString name="Scaron">
+          endchar
+        </CharString>
+        <CharString name="T">
+          endchar
+        </CharString>
+        <CharString name="Thorn">
+          endchar
+        </CharString>
+        <CharString name="U">
+          endchar
+        </CharString>
+        <CharString name="Uacute">
+          endchar
+        </CharString>
+        <CharString name="Ucircumflex">
+          endchar
+        </CharString>
+        <CharString name="Udieresis">
+          endchar
+        </CharString>
+        <CharString name="Ugrave">
+          endchar
+        </CharString>
+        <CharString name="V">
+          endchar
+        </CharString>
+        <CharString name="W">
+          endchar
+        </CharString>
+        <CharString name="X">
+          endchar
+        </CharString>
+        <CharString name="Y">
+          endchar
+        </CharString>
+        <CharString name="Yacute">
+          endchar
+        </CharString>
+        <CharString name="Ydieresis">
+          endchar
+        </CharString>
+        <CharString name="Z">
+          endchar
+        </CharString>
+        <CharString name="Zcaron">
+          endchar
+        </CharString>
+        <CharString name="a">
+          endchar
+        </CharString>
+        <CharString name="a.superior">
+          endchar
+        </CharString>
+        <CharString name="aacute">
+          endchar
+        </CharString>
+        <CharString name="acircumflex">
+          endchar
+        </CharString>
+        <CharString name="acute">
+          endchar
+        </CharString>
+        <CharString name="adieresis">
+          endchar
+        </CharString>
+        <CharString name="ae">
+          endchar
+        </CharString>
+        <CharString name="afii61289">
+          endchar
+        </CharString>
+        <CharString name="agrave">
+          endchar
+        </CharString>
+        <CharString name="ampersand">
+          endchar
+        </CharString>
+        <CharString name="approxequal">
+          endchar
+        </CharString>
+        <CharString name="aring">
+          endchar
+        </CharString>
+        <CharString name="asciicircum">
+          endchar
+        </CharString>
+        <CharString name="asciitilde">
+          endchar
+        </CharString>
+        <CharString name="asterisk">
+          endchar
+        </CharString>
+        <CharString name="at">
+          endchar
+        </CharString>
+        <CharString name="atilde">
+          endchar
+        </CharString>
+        <CharString name="b">
+          endchar
+        </CharString>
+        <CharString name="backslash">
+          endchar
+        </CharString>
+        <CharString name="bar">
+          endchar
+        </CharString>
+        <CharString name="braceleft">
+          endchar
+        </CharString>
+        <CharString name="braceright">
+          endchar
+        </CharString>
+        <CharString name="bracketleft">
+          endchar
+        </CharString>
+        <CharString name="bracketright">
+          endchar
+        </CharString>
+        <CharString name="breve">
+          endchar
+        </CharString>
+        <CharString name="brokenbar">
+          endchar
+        </CharString>
+        <CharString name="bullet">
+          endchar
+        </CharString>
+        <CharString name="c">
+          -74 37 -72 77 95 112 99 65 61 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="caron">
+          endchar
+        </CharString>
+        <CharString name="ccedilla">
+          endchar
+        </CharString>
+        <CharString name="cedilla">
+          endchar
+        </CharString>
+        <CharString name="cent">
+          endchar
+        </CharString>
+        <CharString name="circumflex">
+          endchar
+        </CharString>
+        <CharString name="colon">
+          endchar
+        </CharString>
+        <CharString name="comma">
+          endchar
+        </CharString>
+        <CharString name="copyright">
+          endchar
+        </CharString>
+        <CharString name="currency">
+          endchar
+        </CharString>
+        <CharString name="d">
+          endchar
+        </CharString>
+        <CharString name="dagger">
+          endchar
+        </CharString>
+        <CharString name="daggerdbl">
+          endchar
+        </CharString>
+        <CharString name="degree">
+          endchar
+        </CharString>
+        <CharString name="dieresis">
+          endchar
+        </CharString>
+        <CharString name="divide">
+          endchar
+        </CharString>
+        <CharString name="dollar">
+          endchar
+        </CharString>
+        <CharString name="dotaccent">
+          endchar
+        </CharString>
+        <CharString name="dotlessi">
+          endchar
+        </CharString>
+        <CharString name="e">
+          endchar
+        </CharString>
+        <CharString name="eacute">
+          endchar
+        </CharString>
+        <CharString name="ecircumflex">
+          endchar
+        </CharString>
+        <CharString name="edieresis">
+          endchar
+        </CharString>
+        <CharString name="egrave">
+          endchar
+        </CharString>
+        <CharString name="eight">
+          endchar
+        </CharString>
+        <CharString name="ellipsis">
+          endchar
+        </CharString>
+        <CharString name="emdash">
+          endchar
+        </CharString>
+        <CharString name="endash">
+          endchar
+        </CharString>
+        <CharString name="equal">
+          endchar
+        </CharString>
+        <CharString name="estimated">
+          endchar
+        </CharString>
+        <CharString name="eth">
+          endchar
+        </CharString>
+        <CharString name="exclam">
+          endchar
+        </CharString>
+        <CharString name="exclamdown">
+          endchar
+        </CharString>
+        <CharString name="f">
+          endchar
+        </CharString>
+        <CharString name="f_i">
+          endchar
+        </CharString>
+        <CharString name="f_l">
+          endchar
+        </CharString>
+        <CharString name="fi">
+          endchar
+        </CharString>
+        <CharString name="five">
+          endchar
+        </CharString>
+        <CharString name="fl">
+          endchar
+        </CharString>
+        <CharString name="florin">
+          endchar
+        </CharString>
+        <CharString name="four">
+          endchar
+        </CharString>
+        <CharString name="fraction">
+          endchar
+        </CharString>
+        <CharString name="g">
+          endchar
+        </CharString>
+        <CharString name="germandbls">
+          endchar
+        </CharString>
+        <CharString name="grave">
+          endchar
+        </CharString>
+        <CharString name="greater">
+          endchar
+        </CharString>
+        <CharString name="greaterequal">
+          endchar
+        </CharString>
+        <CharString name="guillemotleft">
+          endchar
+        </CharString>
+        <CharString name="guillemotright">
+          endchar
+        </CharString>
+        <CharString name="guilsinglleft">
+          endchar
+        </CharString>
+        <CharString name="guilsinglright">
+          endchar
+        </CharString>
+        <CharString name="h">
+          endchar
+        </CharString>
+        <CharString name="hungarumlaut">
+          endchar
+        </CharString>
+        <CharString name="hyphen">
+          endchar
+        </CharString>
+        <CharString name="i">
+          endchar
+        </CharString>
+        <CharString name="iacute">
+          endchar
+        </CharString>
+        <CharString name="icircumflex">
+          endchar
+        </CharString>
+        <CharString name="idieresis">
+          endchar
+        </CharString>
+        <CharString name="igrave">
+          endchar
+        </CharString>
+        <CharString name="infinity">
+          endchar
+        </CharString>
+        <CharString name="integral">
+          endchar
+        </CharString>
+        <CharString name="j">
+          endchar
+        </CharString>
+        <CharString name="k">
+          endchar
+        </CharString>
+        <CharString name="l">
+          endchar
+        </CharString>
+        <CharString name="less">
+          endchar
+        </CharString>
+        <CharString name="lessequal">
+          endchar
+        </CharString>
+        <CharString name="logicalnot">
+          endchar
+        </CharString>
+        <CharString name="lozenge">
+          endchar
+        </CharString>
+        <CharString name="lslash">
+          endchar
+        </CharString>
+        <CharString name="m">
+          endchar
+        </CharString>
+        <CharString name="macron">
+          endchar
+        </CharString>
+        <CharString name="minus">
+          endchar
+        </CharString>
+        <CharString name="mu">
+          endchar
+        </CharString>
+        <CharString name="multiply">
+          endchar
+        </CharString>
+        <CharString name="n">
+          endchar
+        </CharString>
+        <CharString name="nine">
+          endchar
+        </CharString>
+        <CharString name="notequal">
+          endchar
+        </CharString>
+        <CharString name="ntilde">
+          endchar
+        </CharString>
+        <CharString name="numbersign">
+          endchar
+        </CharString>
+        <CharString name="o">
+          endchar
+        </CharString>
+        <CharString name="o.superior">
+          endchar
+        </CharString>
+        <CharString name="oacute">
+          endchar
+        </CharString>
+        <CharString name="ocircumflex">
+          endchar
+        </CharString>
+        <CharString name="odieresis">
+          endchar
+        </CharString>
+        <CharString name="oe">
+          endchar
+        </CharString>
+        <CharString name="ogonek">
+          endchar
+        </CharString>
+        <CharString name="ograve">
+          endchar
+        </CharString>
+        <CharString name="one">
+          endchar
+        </CharString>
+        <CharString name="one.superior">
+          endchar
+        </CharString>
+        <CharString name="onehalf">
+          endchar
+        </CharString>
+        <CharString name="onequarter">
+          endchar
+        </CharString>
+        <CharString name="onesuperior">
+          endchar
+        </CharString>
+        <CharString name="ordfeminine">
+          endchar
+        </CharString>
+        <CharString name="ordmasculine">
+          endchar
+        </CharString>
+        <CharString name="oslash">
+          endchar
+        </CharString>
+        <CharString name="otilde">
+          endchar
+        </CharString>
+        <CharString name="p">
+          endchar
+        </CharString>
+        <CharString name="paragraph">
+          endchar
+        </CharString>
+        <CharString name="parenleft">
+          endchar
+        </CharString>
+        <CharString name="parenright">
+          endchar
+        </CharString>
+        <CharString name="partialdiff">
+          endchar
+        </CharString>
+        <CharString name="percent">
+          endchar
+        </CharString>
+        <CharString name="period">
+          endchar
+        </CharString>
+        <CharString name="periodcentered">
+          endchar
+        </CharString>
+        <CharString name="perthousand">
+          endchar
+        </CharString>
+        <CharString name="pi">
+          endchar
+        </CharString>
+        <CharString name="plus">
+          endchar
+        </CharString>
+        <CharString name="plusminus">
+          endchar
+        </CharString>
+        <CharString name="product">
+          endchar
+        </CharString>
+        <CharString name="q">
+          endchar
+        </CharString>
+        <CharString name="question">
+          endchar
+        </CharString>
+        <CharString name="questiondown">
+          endchar
+        </CharString>
+        <CharString name="quotedbl">
+          endchar
+        </CharString>
+        <CharString name="quotedblbase">
+          endchar
+        </CharString>
+        <CharString name="quotedblleft">
+          endchar
+        </CharString>
+        <CharString name="quotedblright">
+          endchar
+        </CharString>
+        <CharString name="quoteleft">
+          endchar
+        </CharString>
+        <CharString name="quoteright">
+          endchar
+        </CharString>
+        <CharString name="quotesinglbase">
+          endchar
+        </CharString>
+        <CharString name="quotesingle">
+          endchar
+        </CharString>
+        <CharString name="r">
+          endchar
+        </CharString>
+        <CharString name="radical">
+          endchar
+        </CharString>
+        <CharString name="registered">
+          endchar
+        </CharString>
+        <CharString name="ring">
+          endchar
+        </CharString>
+        <CharString name="s">
+          endchar
+        </CharString>
+        <CharString name="scaron">
+          endchar
+        </CharString>
+        <CharString name="section">
+          endchar
+        </CharString>
+        <CharString name="semicolon">
+          endchar
+        </CharString>
+        <CharString name="seven">
+          endchar
+        </CharString>
+        <CharString name="six">
+          endchar
+        </CharString>
+        <CharString name="slash">
+          endchar
+        </CharString>
+        <CharString name="space">
+          endchar
+        </CharString>
+        <CharString name="sterling">
+          endchar
+        </CharString>
+        <CharString name="summation">
+          endchar
+        </CharString>
+        <CharString name="t">
+          endchar
+        </CharString>
+        <CharString name="thorn">
+          endchar
+        </CharString>
+        <CharString name="three">
+          endchar
+        </CharString>
+        <CharString name="three.superior">
+          endchar
+        </CharString>
+        <CharString name="threequarters">
+          endchar
+        </CharString>
+        <CharString name="threesuperior">
+          endchar
+        </CharString>
+        <CharString name="tilde">
+          endchar
+        </CharString>
+        <CharString name="trademark">
+          endchar
+        </CharString>
+        <CharString name="two">
+          endchar
+        </CharString>
+        <CharString name="two.superior">
+          endchar
+        </CharString>
+        <CharString name="twosuperior">
+          endchar
+        </CharString>
+        <CharString name="u">
+          endchar
+        </CharString>
+        <CharString name="uacute">
+          endchar
+        </CharString>
+        <CharString name="ucircumflex">
+          endchar
+        </CharString>
+        <CharString name="udieresis">
+          endchar
+        </CharString>
+        <CharString name="ugrave">
+          endchar
+        </CharString>
+        <CharString name="underscore">
+          endchar
+        </CharString>
+        <CharString name="uni00A0">
+          endchar
+        </CharString>
+        <CharString name="uni00AD">
+          endchar
+        </CharString>
+        <CharString name="uni02C9">
+          endchar
+        </CharString>
+        <CharString name="uni03A9">
+          endchar
+        </CharString>
+        <CharString name="uni03BC">
+          endchar
+        </CharString>
+        <CharString name="uni2010">
+          endchar
+        </CharString>
+        <CharString name="uni2206">
+          endchar
+        </CharString>
+        <CharString name="uni2215">
+          endchar
+        </CharString>
+        <CharString name="uni2219">
+          endchar
+        </CharString>
+        <CharString name="v">
+          endchar
+        </CharString>
+        <CharString name="w">
+          endchar
+        </CharString>
+        <CharString name="x">
+          endchar
+        </CharString>
+        <CharString name="y">
+          endchar
+        </CharString>
+        <CharString name="yacute">
+          endchar
+        </CharString>
+        <CharString name="ydieresis">
+          endchar
+        </CharString>
+        <CharString name="yen">
+          endchar
+        </CharString>
+        <CharString name="z">
+          endchar
+        </CharString>
+        <CharString name="zcaron">
+          endchar
+        </CharString>
+        <CharString name="zero">
+          endchar
+        </CharString>
+      </CharStrings>
+    </CFFFont>
+
+    <GlobalSubrs>
+      <!-- The 'index' attribute is only for humans; it is ignored when parsed. -->
+    </GlobalSubrs>
+
+  </CFF>
+
+  <hmtx>
+    <mtx name=".notdef" width="629" lsb="129"/>
+    <mtx name="A" width="779" lsb="-73"/>
+    <mtx name="AE" width="1281" lsb="-73"/>
+    <mtx name="Aacute" width="779" lsb="-73"/>
+    <mtx name="Acircumflex" width="779" lsb="-73"/>
+    <mtx name="Adieresis" width="779" lsb="-73"/>
+    <mtx name="Agrave" width="779" lsb="-73"/>
+    <mtx name="Aring" width="779" lsb="-73"/>
+    <mtx name="Atilde" width="779" lsb="-73"/>
+    <mtx name="B" width="710" lsb="54"/>
+    <mtx name="C" width="715" lsb="-9"/>
+    <mtx name="Ccedilla" width="715" lsb="-9"/>
+    <mtx name="D" width="804" lsb="54"/>
+    <mtx name="E" width="702" lsb="21"/>
+    <mtx name="Eacute" width="702" lsb="21"/>
+    <mtx name="Ecircumflex" width="702" lsb="21"/>
+    <mtx name="Edieresis" width="702" lsb="21"/>
+    <mtx name="Egrave" width="702" lsb="21"/>
+    <mtx name="Eth" width="804" lsb="54"/>
+    <mtx name="Euro" width="565" lsb="40"/>
+    <mtx name="F" width="695" lsb="47"/>
+    <mtx name="G" width="697" lsb="31"/>
+    <mtx name="H" width="901" lsb="64"/>
+    <mtx name="I" width="493" lsb="52"/>
+    <mtx name="Iacute" width="493" lsb="52"/>
+    <mtx name="Icircumflex" width="493" lsb="52"/>
+    <mtx name="Idieresis" width="493" lsb="52"/>
+    <mtx name="Igrave" width="493" lsb="52"/>
+    <mtx name="J" width="544" lsb="-33"/>
+    <mtx name="K" width="840" lsb="71"/>
+    <mtx name="L" width="700" lsb="-56"/>
+    <mtx name="Lslash" width="700" lsb="-56"/>
+    <mtx name="M" width="1143" lsb="43"/>
+    <mtx name="N" width="836" lsb="48"/>
+    <mtx name="Ntilde" width="836" lsb="48"/>
+    <mtx name="O" width="639" lsb="34"/>
+    <mtx name="OE" width="1160" lsb="46"/>
+    <mtx name="Oacute" width="639" lsb="34"/>
+    <mtx name="Ocircumflex" width="639" lsb="34"/>
+    <mtx name="Odieresis" width="639" lsb="34"/>
+    <mtx name="Ograve" width="639" lsb="34"/>
+    <mtx name="Omega" width="729" lsb="12"/>
+    <mtx name="Oslash" width="639" lsb="-21"/>
+    <mtx name="Otilde" width="639" lsb="34"/>
+    <mtx name="P" width="742" lsb="46"/>
+    <mtx name="Q" width="683" lsb="19"/>
+    <mtx name="R" width="805" lsb="47"/>
+    <mtx name="S" width="712" lsb="6"/>
+    <mtx name="Scaron" width="712" lsb="6"/>
+    <mtx name="T" width="677" lsb="58"/>
+    <mtx name="Thorn" width="612" lsb="37"/>
+    <mtx name="U" width="874" lsb="47"/>
+    <mtx name="Uacute" width="874" lsb="47"/>
+    <mtx name="Ucircumflex" width="874" lsb="47"/>
+    <mtx name="Udieresis" width="874" lsb="47"/>
+    <mtx name="Ugrave" width="874" lsb="47"/>
+    <mtx name="V" width="699" lsb="51"/>
+    <mtx name="W" width="978" lsb="52"/>
+    <mtx name="X" width="688" lsb="46"/>
+    <mtx name="Y" width="742" lsb="47"/>
+    <mtx name="Yacute" width="742" lsb="47"/>
+    <mtx name="Ydieresis" width="742" lsb="47"/>
+    <mtx name="Z" width="644" lsb="54"/>
+    <mtx name="Zcaron" width="644" lsb="54"/>
+    <mtx name="a" width="487" lsb="-31"/>
+    <mtx name="a.superior" width="384" lsb="88"/>
+    <mtx name="aacute" width="487" lsb="-31"/>
+    <mtx name="acircumflex" width="487" lsb="-31"/>
+    <mtx name="acute" width="350" lsb="113"/>
+    <mtx name="adieresis" width="487" lsb="-31"/>
+    <mtx name="ae" width="628" lsb="-22"/>
+    <mtx name="afii61289" width="502" lsb="36"/>
+    <mtx name="agrave" width="487" lsb="-31"/>
+    <mtx name="ampersand" width="582" lsb="-6"/>
+    <mtx name="approxequal" width="622" lsb="111"/>
+    <mtx name="aring" width="487" lsb="-31"/>
+    <mtx name="asciicircum" width="646" lsb="167"/>
+    <mtx name="asciitilde" width="599" lsb="87"/>
+    <mtx name="asterisk" width="548" lsb="115"/>
+    <mtx name="at" width="794" lsb="50"/>
+    <mtx name="atilde" width="487" lsb="-31"/>
+    <mtx name="b" width="400" lsb="0"/>
+    <mtx name="backslash" width="334" lsb="141"/>
+    <mtx name="bar" width="405" lsb="228"/>
+    <mtx name="braceleft" width="350" lsb="57"/>
+    <mtx name="braceright" width="350" lsb="-32"/>
+    <mtx name="bracketleft" width="380" lsb="55"/>
+    <mtx name="bracketright" width="380" lsb="-48"/>
+    <mtx name="breve" width="340" lsb="101"/>
+    <mtx name="brokenbar" width="405" lsb="228"/>
+    <mtx name="bullet" width="400" lsb="53"/>
+    <mtx name="c" width="359" lsb="-3"/>
+    <mtx name="caron" width="341" lsb="90"/>
+    <mtx name="ccedilla" width="359" lsb="-3"/>
+    <mtx name="cedilla" width="340" lsb="1"/>
+    <mtx name="cent" width="565" lsb="106"/>
+    <mtx name="circumflex" width="400" lsb="75"/>
+    <mtx name="colon" width="301" lsb="48"/>
+    <mtx name="comma" width="301" lsb="49"/>
+    <mtx name="copyright" width="870" lsb="62"/>
+    <mtx name="currency" width="694" lsb="188"/>
+    <mtx name="d" width="501" lsb="-7"/>
+    <mtx name="dagger" width="524" lsb="101"/>
+    <mtx name="daggerdbl" width="524" lsb="41"/>
+    <mtx name="degree" width="481" lsb="166"/>
+    <mtx name="dieresis" width="448" lsb="135"/>
+    <mtx name="divide" width="639" lsb="135"/>
+    <mtx name="dollar" width="565" lsb="-34"/>
+    <mtx name="dotaccent" width="340" lsb="199"/>
+    <mtx name="dotlessi" width="278" lsb="-13"/>
+    <mtx name="e" width="357" lsb="-8"/>
+    <mtx name="eacute" width="357" lsb="-8"/>
+    <mtx name="ecircumflex" width="357" lsb="-8"/>
+    <mtx name="edieresis" width="357" lsb="-8"/>
+    <mtx name="egrave" width="357" lsb="-8"/>
+    <mtx name="eight" width="565" lsb="69"/>
+    <mtx name="ellipsis" width="1000" lsb="92"/>
+    <mtx name="emdash" width="1000" lsb="0"/>
+    <mtx name="endash" width="500" lsb="0"/>
+    <mtx name="equal" width="617" lsb="114"/>
+    <mtx name="estimated" width="928" lsb="160"/>
+    <mtx name="eth" width="501" lsb="-11"/>
+    <mtx name="exclam" width="392" lsb="71"/>
+    <mtx name="exclamdown" width="392" lsb="-9"/>
+    <mtx name="f" width="310" lsb="-86"/>
+    <mtx name="f_i" width="578" lsb="-86"/>
+    <mtx name="f_l" width="588" lsb="-86"/>
+    <mtx name="fi" width="578" lsb="-86"/>
+    <mtx name="five" width="565" lsb="-1"/>
+    <mtx name="fl" width="588" lsb="-86"/>
+    <mtx name="florin" width="650" lsb="-21"/>
+    <mtx name="four" width="565" lsb="37"/>
+    <mtx name="fraction" width="172" lsb="-169"/>
+    <mtx name="g" width="443" lsb="-10"/>
+    <mtx name="germandbls" width="556" lsb="-22"/>
+    <mtx name="grave" width="350" lsb="43"/>
+    <mtx name="greater" width="648" lsb="148"/>
+    <mtx name="greaterequal" width="664" lsb="161"/>
+    <mtx name="guillemotleft" width="382" lsb="37"/>
+    <mtx name="guillemotright" width="382" lsb="65"/>
+    <mtx name="guilsinglleft" width="213" lsb="37"/>
+    <mtx name="guilsinglright" width="213" lsb="70"/>
+    <mtx name="h" width="442" lsb="-10"/>
+    <mtx name="hungarumlaut" width="347" lsb="37"/>
+    <mtx name="hyphen" width="320" lsb="0"/>
+    <mtx name="i" width="278" lsb="-13"/>
+    <mtx name="iacute" width="278" lsb="-13"/>
+    <mtx name="icircumflex" width="278" lsb="-13"/>
+    <mtx name="idieresis" width="278" lsb="-13"/>
+    <mtx name="igrave" width="278" lsb="-13"/>
+    <mtx name="infinity" width="823" lsb="119"/>
+    <mtx name="integral" width="491" lsb="142"/>
+    <mtx name="j" width="359" lsb="-61"/>
+    <mtx name="k" width="485" lsb="-14"/>
+    <mtx name="l" width="300" lsb="-6"/>
+    <mtx name="less" width="648" lsb="148"/>
+    <mtx name="lessequal" width="664" lsb="160"/>
+    <mtx name="logicalnot" width="615" lsb="111"/>
+    <mtx name="lozenge" width="706" lsb="180"/>
+    <mtx name="lslash" width="300" lsb="-37"/>
+    <mtx name="m" width="710" lsb="-11"/>
+    <mtx name="macron" width="340" lsb="68"/>
+    <mtx name="minus" width="592" lsb="88"/>
+    <mtx name="mu" width="478" lsb="-184"/>
+    <mtx name="multiply" width="641" lsb="139"/>
+    <mtx name="n" width="460" lsb="-14"/>
+    <mtx name="nine" width="565" lsb="102"/>
+    <mtx name="notequal" width="644" lsb="140"/>
+    <mtx name="ntilde" width="460" lsb="-14"/>
+    <mtx name="numbersign" width="563" lsb="53"/>
+    <mtx name="o" width="396" lsb="-12"/>
+    <mtx name="o.superior" width="335" lsb="88"/>
+    <mtx name="oacute" width="396" lsb="-12"/>
+    <mtx name="ocircumflex" width="396" lsb="-12"/>
+    <mtx name="odieresis" width="396" lsb="-12"/>
+    <mtx name="oe" width="566" lsb="-11"/>
+    <mtx name="ogonek" width="340" lsb="196"/>
+    <mtx name="ograve" width="396" lsb="-12"/>
+    <mtx name="one" width="565" lsb="151"/>
+    <mtx name="one.superior" width="355" lsb="164"/>
+    <mtx name="onehalf" width="834" lsb="94"/>
+    <mtx name="onequarter" width="793" lsb="94"/>
+    <mtx name="onesuperior" width="355" lsb="164"/>
+    <mtx name="ordfeminine" width="384" lsb="88"/>
+    <mtx name="ordmasculine" width="335" lsb="88"/>
+    <mtx name="oslash" width="396" lsb="-12"/>
+    <mtx name="otilde" width="396" lsb="-12"/>
+    <mtx name="p" width="488" lsb="-101"/>
+    <mtx name="paragraph" width="657" lsb="170"/>
+    <mtx name="parenleft" width="326" lsb="49"/>
+    <mtx name="parenright" width="326" lsb="17"/>
+    <mtx name="partialdiff" width="560" lsb="49"/>
+    <mtx name="percent" width="643" lsb="87"/>
+    <mtx name="period" width="301" lsb="55"/>
+    <mtx name="periodcentered" width="301" lsb="124"/>
+    <mtx name="perthousand" width="1208" lsb="97"/>
+    <mtx name="pi" width="588" lsb="26"/>
+    <mtx name="plus" width="642" lsb="138"/>
+    <mtx name="plusminus" width="658" lsb="153"/>
+    <mtx name="product" width="836" lsb="150"/>
+    <mtx name="q" width="452" lsb="-16"/>
+    <mtx name="question" width="467" lsb="120"/>
+    <mtx name="questiondown" width="467" lsb="-7"/>
+    <mtx name="quotedbl" width="333" lsb="38"/>
+    <mtx name="quotedblbase" width="470" lsb="49"/>
+    <mtx name="quotedblleft" width="470" lsb="156"/>
+    <mtx name="quotedblright" width="470" lsb="123"/>
+    <mtx name="quoteleft" width="301" lsb="107"/>
+    <mtx name="quoteright" width="301" lsb="175"/>
+    <mtx name="quotesinglbase" width="301" lsb="49"/>
+    <mtx name="quotesingle" width="222" lsb="68"/>
+    <mtx name="r" width="348" lsb="-54"/>
+    <mtx name="radical" width="705" lsb="161"/>
+    <mtx name="registered" width="870" lsb="62"/>
+    <mtx name="ring" width="294" lsb="216"/>
+    <mtx name="s" width="359" lsb="-90"/>
+    <mtx name="scaron" width="359" lsb="-90"/>
+    <mtx name="section" width="550" lsb="49"/>
+    <mtx name="semicolon" width="301" lsb="48"/>
+    <mtx name="seven" width="565" lsb="124"/>
+    <mtx name="six" width="565" lsb="74"/>
+    <mtx name="slash" width="462" lsb="34"/>
+    <mtx name="space" width="340" lsb="0"/>
+    <mtx name="sterling" width="600" lsb="-127"/>
+    <mtx name="summation" width="683" lsb="148"/>
+    <mtx name="t" width="292" lsb="-55"/>
+    <mtx name="thorn" width="488" lsb="-101"/>
+    <mtx name="three" width="565" lsb="-31"/>
+    <mtx name="three.superior" width="407" lsb="62"/>
+    <mtx name="threequarters" width="869" lsb="71"/>
+    <mtx name="threesuperior" width="407" lsb="62"/>
+    <mtx name="tilde" width="340" lsb="113"/>
+    <mtx name="trademark" width="732" lsb="71"/>
+    <mtx name="two" width="565" lsb="38"/>
+    <mtx name="two.superior" width="375" lsb="84"/>
+    <mtx name="twosuperior" width="375" lsb="84"/>
+    <mtx name="u" width="478" lsb="-16"/>
+    <mtx name="uacute" width="478" lsb="-16"/>
+    <mtx name="ucircumflex" width="478" lsb="-16"/>
+    <mtx name="udieresis" width="478" lsb="-16"/>
+    <mtx name="ugrave" width="478" lsb="-16"/>
+    <mtx name="underscore" width="500" lsb="0"/>
+    <mtx name="uni00A0" width="340" lsb="0"/>
+    <mtx name="uni00AD" width="320" lsb="0"/>
+    <mtx name="uni02C9" width="340" lsb="68"/>
+    <mtx name="uni03A9" width="729" lsb="12"/>
+    <mtx name="uni03BC" width="478" lsb="-184"/>
+    <mtx name="uni2010" width="320" lsb="0"/>
+    <mtx name="uni2206" width="656" lsb="-4"/>
+    <mtx name="uni2215" width="172" lsb="-169"/>
+    <mtx name="uni2219" width="301" lsb="124"/>
+    <mtx name="v" width="425" lsb="-9"/>
+    <mtx name="w" width="635" lsb="-10"/>
+    <mtx name="x" width="348" lsb="-34"/>
+    <mtx name="y" width="442" lsb="-7"/>
+    <mtx name="yacute" width="442" lsb="-7"/>
+    <mtx name="ydieresis" width="442" lsb="-7"/>
+    <mtx name="yen" width="810" lsb="40"/>
+    <mtx name="z" width="368" lsb="-69"/>
+    <mtx name="zcaron" width="368" lsb="-69"/>
+    <mtx name="zero" width="565" lsb="45"/>
+  </hmtx>
+
+</ttFont>
